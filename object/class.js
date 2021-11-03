@@ -19,3 +19,5 @@ class Mahasiswa{
         return `Halo ${this.nama}, selamat tidur!`
     }
 }
+
+let agus = new Mahasiswa("Agus Prayudi", 10);
