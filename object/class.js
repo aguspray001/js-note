@@ -21,3 +21,4 @@ class Mahasiswa{
 }
 
 let agus = new Mahasiswa("Agus Prayudi", 10);
+let andre = new Mahasiswa("Andre Kurniawan", 20);
